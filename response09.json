@@ -1,0 +1,51 @@
+{
+  "statusCode": 200,
+  "message": "Sucesso.",
+  "errors": null,
+  "data": [
+    {
+      "contratacaoId": 1257,
+      "clienteNome": "SPACE NETWORK",
+      "produtoNome": "PLANO CLIENTE SPACE",
+      "pessoaNome": "MARCELO IAGO LUÍS RAMOS",
+      "pessoaCpf": "571.425.206-39",
+      "pessoaEndereco": {
+        "logradouro": "AVENIDA SANTA LUZIA 110",
+        "numero": "504",
+        "complemento": "",
+        "bairro": "LOBATO",
+        "cep": "40470720",
+        "cidade": "SALVADOR",
+        "estado": "BA"
+      },
+      "dataEnvioAssistencia": "2023-02-03T15:54:35",
+      "dataSolicitacaoCancelamento": "2023-02-03T16:12:49",
+      "dataCancelamento": null,
+      "dataInativo": null,
+      "dataRegistro": "2023-02-03T15:54:35",
+      "situacao": "Ativo"
+    },
+    {
+      "contratacaoId": 1258,
+      "clienteNome": "SPACE NETWORK",
+      "produtoNome": "PLANO CLIENTE SPACE",
+      "pessoaNome": "THOMAS MÁRCIO RAMOS",
+      "pessoaCpf": "827.619.335-83",
+      "pessoaEndereco": {
+        "logradouro": "RUA AUGUSTO XAVIER DE LIMA",
+        "numero": "157",
+        "complemento": "",
+        "bairro": "JARDIM JALISCO",
+        "cep": "01407000",
+        "cidade": "RESENDE",
+        "estado": "RJ"
+      },
+      "dataEnvioAssistencia": "2023-02-03T16:49:55",
+      "dataSolicitacaoCancelamento": null,
+      "dataCancelamento": null,
+      "dataInativo": null,
+      "dataRegistro": "2023-02-03T16:49:54",
+      "situacao": "Ativo"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "statusCode": 200,
+  "message": "Sucesso.",
+  "errors": null,
+  "data": [
+    {
+      "contratacaoId": 968,
+      "clienteNome": "B2B",
+      "produtoNome": "PLANO ASSISTÊNCIA FAMILIAR",
+      "pessoaNome": "MAXWELL TOSCANO DE ARAÚJO",
+      "pessoaCpf": "483.396.318-37",
+      "pessoaEndereco": {
+        "logradouro": "RUA GIAMBATTISTA VICO",
+        "numero": "110",
+        "complemento": "",
+        "bairro": "JARDIM SANTA RITA",
+        "cep": "04831060",
+        "cidade": "SÃO PAULO",
+        "estado": "SP"
+      },
+      "dataEnvioAssistencia": "2022-08-27T13:39:41",
+      "dataSolicitacaoCancelamento": "2022-10-05T10:32:53",
+      "dataCancelamento": "2022-10-08T23:59:53",
+      "dataInativo": null,
+      "dataRegistro": "2022-08-27T13:39:41",
+      "situacao": "Cancelado"
+    },
+    {
+      "contratacaoId": 969,
+      "clienteNome": "B2B",
+      "produtoNome": "PLANO ASSISTÊNCIA FAMILIAR",
+      "pessoaNome": "JOSÉ SILVA",
+      "pessoaCpf": "017.205.170-37",
+      "pessoaEndereco": {
+        "logradouro": "ALAMEDA CORVINA",
+        "numero": "111",
+        "complemento": "",
+        "bairro": "ALPHAVILLE",
+        "cep": "06540325",
+        "cidade": "SANTANA DE PARNAÍBA",
+        "estado": "SP"
+      },
+      "dataEnvioAssistencia": "2022-08-29T10:28:46",
+      "dataSolicitacaoCancelamento": "2022-08-29T15:50:39",
+      "dataCancelamento": "2022-10-08T23:59:36",
+      "dataInativo": null,
+      "dataRegistro": "2022-08-29T10:28:46",
+      "situacao": "Cancelado"
+    },
+    {
+      "contratacaoId": 972,
+      "clienteNome": "B2B",
+      "produtoNome": "PLANO ASSISTÊNCIA FAMILIAR",
+      "pessoaNome": "MAXWELL TOSCANO DE ARAÚJO",
+      "pessoaCpf": "483.396.318-37",
+      "pessoaEndereco": {
+        "logradouro": "RUA GIAMBATTISTA VICO",
+        "numero": "110",
+        "complemento": "",
+        "bairro": "JARDIM SANTA RITA",
+        "cep": "04831060",
+        "cidade": "SÃO PAULO",
+        "estado": "SP"
+      },
+      "dataEnvioAssistencia": "2022-08-29T15:37:52",
+      "dataSolicitacaoCancelamento": "2022-08-29T15:50:38",
+      "dataCancelamento": "2022-10-08T23:59:36",
+      "dataInativo": null,
+      "dataRegistro": "2022-08-29T15:37:52",
+      "situacao": "Cancelado"
+    },
+    {
+      "contratacaoId": 1038,
+      "clienteNome": "B2B",
+      "produtoNome": "PLANO ASSISTÊNCIA FAMILIAR",
+      "pessoaNome": "MAXWELL TOSCANO DE ARAÚJO",
+      "pessoaCpf": "483.396.318-37",
+      "pessoaEndereco": {
+        "logradouro": "RUA GIAMBATTISTA VICO",
+        "numero": "110",
+        "complemento": "",
+        "bairro": "JARDIM SANTA RITA",
+        "cep": "04831060",
+        "cidade": "SÃO PAULO",
+        "estado": "SP"
+      },
+      "dataEnvioAssistencia": "2022-09-21T16:31:44",
+      "dataSolicitacaoCancelamento": "2022-09-22T10:15:25",
+      "dataCancelamento": "2022-10-08T23:59:36",
+      "dataInativo": null,
+      "dataRegistro": "2022-09-21T16:31:43",
+      "situacao": "Cancelado"
+    },
+    {
+      "contratacaoId": 1044,
+      "clienteNome": "B2B",
+      "produtoNome": "PLANO ASSISTÊNCIA FAMILIAR",
+      "pessoaNome": "CAUÊ LUAN FILIPE OLIVEIRA",
+      "pessoaCpf": "549.301.624-91",
+      "pessoaEndereco": {
+        "logradouro": "RUA GIAMBATTISTA VICO",
+        "numero": "110",
+        "complemento": "",
+        "bairro": "JARDIM SANTA RITA",
+        "cep": "53407090",
+        "cidade": "SÃO PAULO",
+        "estado": "SP"
+      },
+      "dataEnvioAssistencia": "2022-09-22T10:12:05",
+      "dataSolicitacaoCancelamento": "2022-10-06T11:03:02",
+      "dataCancelamento": "2022-10-08T23:59:48",
+      "dataInativo": null,
+      "dataRegistro": "2022-09-22T10:12:04",
+      "situacao": "Cancelado"
+    },
+    {
+      "contratacaoId": 1045,
+      "clienteNome": "B2B",
+      "produtoNome": "PLANO ASSISTÊNCIA FAMILIAR",
+      "pessoaNome": "CAUÊ LUAN FILIPE OLIVEIRA",
+      "pessoaCpf": "549.301.624-91",
+      "pessoaEndereco": {
+        "logradouro": "RUA GIAMBATTISTA VICO",
+        "numero": "110",
+        "complemento": "",
+        "bairro": "JARDIM SANTA RITA",
+        "cep": "53407090",
+        "cidade": "SÃO PAULO",
+        "estado": "SP"
+      },
+      "dataEnvioAssistencia": "2022-09-22T10:35:49",
+      "dataSolicitacaoCancelamento": "2022-09-27T12:56:28",
+      "dataCancelamento": "2022-10-08T23:59:36",
+      "dataInativo": null,
+      "dataRegistro": "2022-09-22T10:35:49",
+      "situacao": "Cancelado"
+    },
+    {
+      "contratacaoId": 1046,
+      "clienteNome": "B2B",
+      "produtoNome": "PLANO ASSISTÊNCIA FAMILIAR",
+      "pessoaNome": "CAUÊ LUAN FILIPE OLIVEIRA",
+      "pessoaCpf": "549.301.624-91",
+      "pessoaEndereco": {
+        "logradouro": "RUA GIAMBATTISTA VICO",
+        "numero": "110",
+        "complemento": "",
+        "bairro": "JARDIM SANTA RITA",
+        "cep": "53407090",
+        "cidade": "SÃO PAULO",
+        "estado": "SP"
+      },
+      "dataEnvioAssistencia": "2022-09-22T10:37:16",
+      "dataSolicitacaoCancelamento": "2022-09-27T12:56:33",
+      "dataCancelamento": "2022-10-08T23:59:36",
+      "dataInativo": null,
+      "dataRegistro": "2022-09-22T10:36:26",
+      "situacao": "Cancelado"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "statusCode": 200,
+  "message": "Sucesso.",
+  "errors": null,
+  "data": [
+    {
+      "contratacaoId": 1034,
+      "clienteNome": "GRUPO LIGHT",
+      "produtoNome": "PLANO ASSISTÊNCIA LIGHT",
+      "pessoaNome": "MAXWELL TOSCANO DE ARAUJO",
+      "pessoaCpf": "483.396.318-37",
+      "pessoaEndereco": {
+        "logradouro": "RUA GIAMBATTISTA VICO",
+        "numero": "110",
+        "complemento": null,
+        "bairro": "JARDIM SANTA RITA",
+        "cep": "04831060",
+        "cidade": "SÃO PAULO",
+        "estado": "SP"
+      },
+      "dataEnvioAssistencia": null,
+      "dataSolicitacaoCancelamento": "2022-09-21T16:41:35",
+      "dataCancelamento": "2022-10-10T00:00:01",
+      "dataInativo": null,
+      "dataRegistro": "2022-09-21T10:05:53",
+      "situacao": "Cancelado"
+    },
+    {
+      "contratacaoId": 1039,
+      "clienteNome": "GRUPO LIGHT",
+      "produtoNome": "PLANO ASSISTÊNCIA LIGHT",
+      "pessoaNome": "ALEXANDRE EDE LOCOSELLI",
+      "pessoaCpf": "418.214.618-27",
+      "pessoaEndereco": {
+        "logradouro": "RUA GUARUJÁ",
+        "numero": "308",
+        "complemento": "",
+        "bairro": "MIRANDÓPOLIS",
+        "cep": "04052110",
+        "cidade": "SÃO PAULO",
+        "estado": "SP"
+      },
+      "dataEnvioAssistencia": "2022-09-21T16:40:15",
+      "dataSolicitacaoCancelamento": "2022-09-22T10:15:08",
+      "dataCancelamento": "2022-10-10T00:00:00",
+      "dataInativo": "2022-09-27T12:56:47",
+      "dataRegistro": "2022-09-21T16:40:14",
+      "situacao": "Cancelado"
+    }
+  ]
+}
